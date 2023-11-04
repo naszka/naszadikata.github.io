@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in natural language as a tool of communication. My research fucoses on human-AI teams that 
+I am interested in natural language as a tool of communication. My research focses on human-AI teams that 
 use natural language in order to coordinate their actions and understand each other better. I am part of the **Language Technology Lab** at the University of Amsterdam.
 
 

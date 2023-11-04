@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kata Naszadi's academic homepage"
+title                    : "Kata Naszádi's academic homepage"
 title_separator          : "-"
 name                     : &name "Kata Naszadi"
 description              : &description "PhD candidate at the Univeristy of Amsterdam"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kata Naszádi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "k.naszadi @ uva.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "naszka"
+  github           : # "naszka"
   google_plus      :
   keybase          :
   instagram        :
