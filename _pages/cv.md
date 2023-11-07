@@ -24,6 +24,7 @@ Work experience
 
 Awards
 ======
-Outstanding Reviewer EACL 2023
+* Outstanding Reviewer EACL 2023
+* 1st place NeurIPS IGLU Competition on Grounded Collaborative Dialog
 
 
