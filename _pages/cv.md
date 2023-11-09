@@ -17,8 +17,7 @@ Education
 
 Work experience
 ======
-* 2017-2021: Applied Scientist
-     * Amazon Alexa
+* 2017-2021: Applied Scientist, Amazon Alexa
      * Automatic Speech Recognition
      
 
